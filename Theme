@@ -502,7 +502,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 
 
 				Pageframe.Parent = ScrollingFrame_Pagefrist
-				Pageframe.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+				Pageframe.BackgroundColor3 = Color3.fromRGB(240, 255, 255)
 				Pageframe.BorderSizePixel = 0
 				Pageframe.Position = UDim2.new(0.028957529, 0, 0.0496277921, 0)
 				Pageframe.Size = UDim2.new(0, 240, 0, 379)
@@ -513,7 +513,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 
 				ScrollingFrame_Pageframe.Parent = Pageframe
 				ScrollingFrame_Pageframe.Active = true
-				ScrollingFrame_Pageframe.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+				ScrollingFrame_Pageframe.BackgroundColor3 = Color3.fromRGB(240, 255, 255)
 				ScrollingFrame_Pageframe.BorderSizePixel = 0
 				ScrollingFrame_Pageframe.Position = UDim2.new(0, 0, -0.0101253344, 0)
 				ScrollingFrame_Pageframe.Size = UDim2.new(0, 240, 0, 379)
