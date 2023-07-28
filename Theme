@@ -567,7 +567,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 
 				TextButton_Toggle.Parent = Toggle
 				TextButton_Toggle.BackgroundTransparency =1
-				TextButton_Toggle.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+				TextButton_Toggle.BackgroundColor3 = Color3.fromRGB(240, 255, 255)
 				TextButton_Toggle.BorderSizePixel = 0
 				TextButton_Toggle.Size = UDim2.new(0, 213, 0, 35)
 				TextButton_Toggle.AutoButtonColor = false
@@ -662,7 +662,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 
 				TextButton_Toggle2.Parent = TextButton_Toggle
 				TextButton_Toggle2.BackgroundTransparency =1
-				TextButton_Toggle2.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+				TextButton_Toggle2.BackgroundColor3 = Color3.fromRGB(240, 255, 255)
 				TextButton_Toggle2.BorderSizePixel = 0
 				TextButton_Toggle2.Size = UDim2.new(0, 213, 0, 35)
 				TextButton_Toggle2.AutoButtonColor = false
@@ -2381,7 +2381,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 
 				listtextbutton.Parent = listtog
 				listtextbutton.BackgroundTransparency =1
-				listtextbutton.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+				listtextbutton.BackgroundColor3 = Color3.fromRGB(240, 255, 255)
 				listtextbutton.BorderSizePixel = 0
 				listtextbutton.Size =  UDim2.new(0, 210, 0, 33)
 				listtextbutton.AutoButtonColor = false
