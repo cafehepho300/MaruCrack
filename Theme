@@ -292,7 +292,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 			imagenoti.AnchorPoint = Vector2.new(0.5, 0.5)
 			imagenoti.Position = UDim2.new(0.9, 0, 0.5, 0)
 			imagenoti.Size = UDim2.new(0, 50, 0, 50)
-		--  imagenoti.Image = "https://www.roblox.com/asset-thumbnail/image?assetId=7578496318&width=0&height=0&format=png"
+		  imagenoti.Image = "https://www.roblox.com/asset-thumbnail/image?assetId=7578496318&width=0&height=0&format=png"
 
 			local txdlid = Instance.new("TextLabel")
 
@@ -475,7 +475,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 
 			ScrollingFrame_Pagefrist.Parent = MainPage
 			ScrollingFrame_Pagefrist.Active = true
-			ScrollingFrame_Pagefrist.BackgroundColor3 = Color3.fromRGB(23, 23, 23) -- 15,15,15
+			ScrollingFrame_Pagefrist.BackgroundColor3 = Color3.fromRGB(255,255,255) -- 15,15,15
 			ScrollingFrame_Pagefrist.BorderSizePixel = 0
 			ScrollingFrame_Pagefrist.Size = UDim2.new(0, 518, 0, 375)
 			ScrollingFrame_Pagefrist.ScrollBarThickness = 4
