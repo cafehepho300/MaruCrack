@@ -1164,7 +1164,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 				local TextButton_4_Toggle = Instance.new("TextButton")
 
 				TextButton_4_Toggle.Parent = TextButton_3_Toggle
-				TextButton_4_Toggle.BackgroundColor3 = Color3.fromRGB(155, 155,155)
+				TextButton_4_Toggle.BackgroundColor3 = Color3.fromRGB(240, 255, 255)
 		--        TextButton_3_Toggle.BorderColor3 = Color3.fromRGB(240, 255, 255)
 				TextButton_4_Toggle.BorderSizePixel = 0
 				TextButton_4_Toggle.AnchorPoint = Vector2.new(0.5, 0.5)
@@ -3067,7 +3067,7 @@ local ui =  game:GetService("CoreGui"):FindFirstChild("redui") if ui then ui:Des
 			local TextButton_4_Toggle = Instance.new("TextButton")
 
 			TextButton_4_Toggle.Parent = TextButton_3_Toggle
-			TextButton_4_Toggle.BackgroundColor3 = Color3.fromRGB(155, 155,155)
+			TextButton_4_Toggle.BackgroundColor3 = Color3.fromRGB(240, 255, 255)
 	--        TextButton_3_Toggle.BorderColor3 = Color3.fromRGB(240, 255, 255)
 			TextButton_4_Toggle.BorderSizePixel = 0
 			TextButton_4_Toggle.AnchorPoint = Vector2.new(0.5, 0.5)
